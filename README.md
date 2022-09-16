@@ -1,7 +1,6 @@
-# Find-the-best-fit-line-using-Least-Squares-Method
-
+# Implementation of Univariate Linear Regression
 ## AIM:
-To write a program to find the best fit line using Least Squares method.
+To implement univariate Linear Regression to fit a straight line using least squares.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -16,7 +15,7 @@ To write a program to find the best fit line using Least Squares method.
 ## Program:
 ```
 /*
-Program to find the best fit line using Least Squares method.
+Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: 
 RegisterNumber:  
 */
@@ -27,4 +26,4 @@ RegisterNumber:
 
 
 ## Result:
-Thus the program to find the best fit line using Least Squares method is written and verified using python programming.
+Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
