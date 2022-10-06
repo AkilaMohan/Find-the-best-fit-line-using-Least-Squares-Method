@@ -26,7 +26,10 @@ RegisterNumber:
 ```
 
 ## Output:
-![best fit line](sam.png)
+![best fit line](ml1.png)
+![best fit line](ml2.png)
+![best fit line](ml3.png)
+![best fit line](ml4.png)
 
 
 ## Result:
